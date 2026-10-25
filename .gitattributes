@@ -1,0 +1,6 @@
+# Normalize line endings for text files
+* text=auto
+
+# Binary project files — no diff, no merge, no EOL conversion
+*.project   binary
+*.factoryio binary

@@ -1,0 +1,28 @@
+# --- CODESYS ---
+*.bak
+*.opt
+*.~u
+*.compileinfo
+*.precompilecache
+*.bootinfo
+*.backup
+*.project.~u
+# CODESYS cache / build folders
+_cache/
+Cache/
+*.cache/
+CompileCache/
+BootApps/
+
+# --- Python ---
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# --- Ignition ---
+*.gwbk
+
+# --- Windows ---
+Thumbs.db
+desktop.ini
