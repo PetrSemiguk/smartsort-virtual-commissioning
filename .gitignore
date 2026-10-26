@@ -5,6 +5,7 @@
 *.compileinfo
 *.precompilecache
 *.bootinfo
+*.bootinfo_guids
 *.backup
 *.project.~u
 # CODESYS cache / build folders
